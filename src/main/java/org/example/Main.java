@@ -42,7 +42,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        logger.info("Start of Execution");
+        logger.info("Starting Execution");
         Scanner scanner = new Scanner(System.in);
         boolean exit = false;
 
