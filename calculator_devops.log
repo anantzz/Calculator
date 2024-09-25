@@ -1,0 +1,161 @@
+2024-09-25 12:49:47.399 [main] INFO  org.example.Main - Start of Execution
+2024-09-25 12:49:55.465 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 12:50:10.346 [main] INFO  org.example.Main - Start of Power
+2024-09-25 12:52:43.951 [main] INFO  org.example.Main - Start of Execution
+2024-09-25 12:52:55.901 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 12:52:55.901 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 12:53:05.707 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 12:53:05.708 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 12:53:20.319 [main] INFO  org.example.Main - End of Execution
+2024-09-25 13:02:53.651 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:02:53.653 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:02:53.653 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:02:53.653 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:02:53.653 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:02:53.653 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:02:53.654 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:02:53.654 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:02:53.654 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:02:53.654 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:02:53.654 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:02:53.654 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:02:53.655 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:02:53.655 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:02:53.655 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:02:53.655 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:02:53.655 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:02:53.655 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:02:53.655 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:02:53.655 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:02:53.656 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:02:53.656 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:02:53.656 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:02:53.656 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:02:53.656 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:02:53.656 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:03:31.522 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:03:31.524 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:03:31.524 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:03:31.524 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:03:31.524 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:03:31.524 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:03:31.525 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:03:31.526 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:03:31.526 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:03:47.431 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:03:47.432 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:03:47.433 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:03:47.434 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:03:47.435 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:06:52.298 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:06:52.299 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:06:52.299 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:06:52.299 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:06:52.299 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:06:52.299 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:06:52.300 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:06:52.301 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:06:52.301 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:06:52.301 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:06:52.301 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:06:52.301 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:06:52.301 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:06:52.301 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:06:52.301 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:12:43.163 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:12:43.164 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:12:43.165 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:12:43.166 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:12:43.166 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:12:43.166 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:13:01.127 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:13:01.128 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - Start of Power
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - End of Power
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - Start of Factorial
+2024-09-25 13:13:01.129 [main] INFO  org.example.Main - End of Factorial
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - Start of Natural Logarithm
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - End of Natural Logarithm
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - End of Square Root
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - Start of Square Root
+2024-09-25 13:13:01.130 [main] INFO  org.example.Main - End of Square Root
