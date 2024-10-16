@@ -36,7 +36,7 @@ public class Main {
 
     // Method to calculate power (x^b)
     public static double power(double x, double b) {
-        logger.info("Start of Powe");
+        logger.info("Start of Power");
         logger.info("End of Power");
         return Math.pow(x, b);
     }
