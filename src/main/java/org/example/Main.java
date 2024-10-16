@@ -50,7 +50,7 @@ public class Main {
             System.out.println("Scientific Calculator - Choose an option:");
             System.out.println("1. Square root (√x)");
             System.out.println("2. Factorial (x!)");
-            System.out.println("3. Natural logarith (ln(x))");
+            System.out.println("3. Natural logarithm (ln(x))");
             System.out.println("4. Power (x^b)");
             System.out.println("5. Exit");
 
